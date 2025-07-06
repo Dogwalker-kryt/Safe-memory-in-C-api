@@ -1,13 +1,16 @@
 # Safe-memory-in-C-api
 make the memory management easier an safer
 
-**Info**
+## Info
 - this C lang api is there to amke memory management easier and safer
 - the funktions are so designed so you dont have to make extra things for cheking and stuff
 
-**Example**
-- wihtout Safemem api
 
+
+## Example
+### wihtout Safemem api
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -31,7 +34,7 @@ int main() {
     return 0;
 }
 
-- with Safemem api
+with Safemem api
 
 #include <stdio.h>
 #include "safemem.h"
