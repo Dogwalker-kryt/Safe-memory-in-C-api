@@ -33,7 +33,7 @@ int main() {
     free(arr);
     return 0;
 }
-
+```c
 with Safemem api
 
 #include <stdio.h>
