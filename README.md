@@ -2,7 +2,7 @@
 make the memory management easier an safer
 
 ## Info
-- this C lang api is there to amke memory management easier and safer
+- this C lang api is there to make memory management easier and safer
 - the funktions are so designed so you dont have to make extra things for cheking and stuff
 
 
