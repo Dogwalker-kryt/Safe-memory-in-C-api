@@ -8,7 +8,7 @@ make the memory management easier an safer
 
 
 ## Example
-### wihtout Safemem api
+### without Safemem api
 
 ```c
 #include <stdio.h>
@@ -34,7 +34,7 @@ int main() {
     return 0;
 }
 ```
-with Safemem api
+### with Safemem api
 
 ```c
 #include <stdio.h>
