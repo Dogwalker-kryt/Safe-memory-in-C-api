@@ -33,9 +33,10 @@ int main() {
     free(arr);
     return 0;
 }
-```c
+```
 with Safemem api
 
+```c
 #include <stdio.h>
 #include "safemem.h"
 
@@ -60,5 +61,5 @@ int main() {
 
     return 0;
 }
-
+```
 
