@@ -6,7 +6,7 @@ make the memory management easier an safer
 - the funktions are so designed so you dont have to make extra things for cheking and stuff
 
 **Example**
-wihtout Safemem api
+- wihtout Safemem api
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -31,7 +31,7 @@ int main() {
     return 0;
 }
 
-with Safemem api
+- with Safemem api
 
 #include <stdio.h>
 #include "safemem.h"
